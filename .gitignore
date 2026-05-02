@@ -8,4 +8,5 @@ __pycache__/
 data/raw/*.csv
 models/*.joblib
 models/*.pkl
+*.egg-info/
 .pytest_cache/
